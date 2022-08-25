@@ -6,4 +6,4 @@ A screenshot of the page is provided below.
 
 [screenshot of the deployed site] (/assets/WorkDayScheduler.png)
 
-The deployed projec can be found at: 
+The deployed projec can be found at: https://john-tascione.github.io/Workday-Schedule/
